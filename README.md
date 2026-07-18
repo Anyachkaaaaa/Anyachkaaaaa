@@ -54,11 +54,6 @@
 - automation-сценарии и поддержку инфраструктуры
 - проекты, где важны и визуал, и архитектура, и ощущение качества
 
-## Socials
-
-[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/Anyachkaaaaa)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/anyachkaaaaa)
-
 ## GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Anyachkaaaaa&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
