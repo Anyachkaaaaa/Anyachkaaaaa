@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ Hi there! 💜 I'm Mipa
+# ✨ Hi there! 💜 I'm Anyachkaaaaa
 
 ![Banner](assets/bannerProfile.gif)
 
